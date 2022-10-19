@@ -6,6 +6,7 @@
 
 
 Peer Review Name: Ulises Ortega
+
 Peer Review Comments:
 The program request the user to enter his name, once you enter the name, hello and the entered name display on screen, Chris made a good use of the
 boolen check if true or false, also the if checking if true or not, the one thing you need if for if null or empty cause the program wll run even
