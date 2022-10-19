@@ -11,5 +11,5 @@ Peer Review Comments:
 The program request the user to enter his name, once you enter the name, hello and the entered name display on screen, Chris made a good use of the
 boolen check if true or false, also the if checking if true or not, the one thing you need check is the string(inpit) is null or empty cause the program wll run even if there's no input.
 
-the play again feature works but you need to limit the options to either yes or no, the program just repats if I inout maybe.
+the play again feature works but you need to limit the options to either yes or no, the program just repeats if I input maybe.
 good work, but there's still room for improvement.
